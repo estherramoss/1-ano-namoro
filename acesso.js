@@ -36,7 +36,7 @@ if(usuario === "Bruno" && senha === "130306"){
 
     setTimeout(() => {
 
-    location.href = "http://127.0.0.1:5500/home.html";
+    location.href = "https://estherramoss.github.io/1-ano-namoro/home.html";
 
     }, 500);
     
@@ -46,7 +46,7 @@ if(usuario === "Bruno" && senha === "130306"){
 
     setTimeout(() => {
 
-        location.href = "http://127.0.0.1:5500/erro.html";
+        location.href = "https://estherramoss.github.io/1-ano-namoro/erro.html";
     
         }, 500);
 
